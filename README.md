@@ -1,1 +1,5 @@
-# Modelo de Projeto.NET - Entity Framework
+# Template C# - .net framework
+
+- DDD
+- SOLID
+- Entity Framework
