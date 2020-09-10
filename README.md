@@ -1,4 +1,4 @@
-# Template C# - .net framework
+# Template C# - .Net Framework
 
 - DDD
 - SOLID
